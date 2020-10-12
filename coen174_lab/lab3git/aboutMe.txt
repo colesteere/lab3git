@@ -2,3 +2,9 @@ I am a Computer engineering major.
 I am currently a senior set to graduate in June, 2021.
 I like to read, play video games, go outside, go hiking, etc.
 
+Courses:
+Coen 140
+Coen 174
+Phil 22
+Coen 194
+
